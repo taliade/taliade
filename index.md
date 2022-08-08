@@ -11,15 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Estudiann Lic. en informatica   
+## Docente de Informatica
+### Docente de Desarrollo fullStack en JavaScript/ NodeJS  - ReactJS
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -35,10 +30,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 <!-- Trabajos de PortFolio -->
-<h1> Redes Sociales </h1>
+<footer> 
+<h4> Redes Sociales </h4>
 <a href="https://www.linkedin.com/in/talia-rodrigues-20/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/colorfucsiia/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/Tali_tuli" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="https://www.youtube.com//" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube--v1.png"/></a>
 <a href="mailto:taliaraodrigues@gmail.com> <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/> </a>                             
-<a href="https://drive.google.com/file/d/1qy-WVhYsRpz-yOy4XVBzSN1OiYt9-FEH/view?usp=sharing"><img src="https://img.icons8.com/fluency/48/000000/parse-resume.png"/></a>     
+<a href="https://drive.google.com/file/d/1qy-WVhYsRpz-yOy4XVBzSN1OiYt9-FEH/view?usp=sharing"><img src="https://img.icons8.com/fluency/48/000000/parse-resume.png"/></a> </footer>     
