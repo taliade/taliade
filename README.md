@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Docente de programacion web**
 
-- 👨‍💻 All of my projects are available at [https://github.com/taliade/taliade-Mi-sitio-web](https://github.com/taliade/taliade-Mi-sitio-web)
+- 👨‍💻 All of my projects are available at [Mi-blog-personalizado](https://taliade.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
