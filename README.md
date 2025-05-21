@@ -1,22 +1,56 @@
-<!-- Trabajos de PortFolio -->
-<h1 align="center">Hi 👋, I'm Talia Rodrigues</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Talia A. Rodrigues</h1>
+<h3 align="center">QA Manual | Desarrolladora Web Fullstack | Analista de Datos</h3>
 
-- 🔭 I’m currently working on **Docente de programacion web**
+- 🔭 Actualmente trabajo como **QA Manual y Desarrolladora Web freelance**
+- 🌱 Estoy en formación en **Power BI, SQL, Python y Automatización de QA**
+- 👩‍🏫 También soy docente técnica en **QA y Desarrollo Web** en UTN, Incluyeme.com y GCBA
+- 🧠 Aprendo constantemente sobre **accesibilidad, testing, dashboards y análisis de datos**
+- 💬 Me encanta compartir conocimientos y trabajar en equipos colaborativos
+- 📫 Podés contactarme en **taliaraodrigues@gmail.com**
+- 📄 Ver mi [CV de QA](https://github.com/taliarodrigues/portfolio-frontend/blob/main/CV_Talia_Rodrigues_QA.docx.pdf)
+- 🌐 Mi portfolio de proyectos: [github.com/taliarodrigues/portfolio-frontend](https://github.com/taliarodrigues/portfolio-frontend)
 
-- 👨‍💻 All of my projects are available at [Mi-blog-personalizado](https://taliade.github.io/)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tecnologías y Herramientas
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/talia-rodrigues-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talia-rodrigues-20/" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.girl.css/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.girl.css/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/talia rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="talia rodrigues" height="30" width="40" /></a>
-<a href="https://twitter.com/Tali_tuli" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href="https://youtube.com/playlist?list=PL8rS0rcC-ld_6Fht4tqP50rKG8Zf8ml7t" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube--v1.png"/></a>
-<a href="mailto:taliaraodrigues@gmail.com> <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/> </a>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliarodrigues&layout=compact&theme=default" alt="taliarodrigues" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taliarodrigues&show_icons=true&locale=es&theme=default" alt="taliarodrigues" /></p>
+
+---
+
+### 📌 Proyectos Destacados
+
+- 📊 [Dashboard Power BI: Análisis de ventas y empleados](https://github.com/taliade/Dashboard-de-PowerBI)
+- ✅ [Checklist QA de Sitios Web](https://github.com/taliarodrigues/portfolio-frontend/tree/main/qa)
+- 💻 [Sitio educativo accesible con Moodle y PHP](https://github.com/taliarodrigues/portfolio-frontend)
+
+---
+
+### 🌍 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/taliarodrigues)
+- 🧠 [Portfolio Frontend + QA](https://github.com/taliarodrigues/portfolio-frontend)
+- 📬 Email: taliaraodrigues@gmail.com
+
+---
+
+> 💬 *“Testeo para mejorar la experiencia, programo para automatizar soluciones y enseño para empoderar a más personas en tecnología.”*
 
 
