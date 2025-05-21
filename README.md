@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer | Data Analyst | UX/UI Design | QA Testing | ReactJS & NodeJS | SQL & Power BI |.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taliade&label=Profile%20views&color=0e75b6&style=flat" alt="taliade" /> </p>
 
